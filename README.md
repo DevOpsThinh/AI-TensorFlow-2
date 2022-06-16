@@ -18,8 +18,8 @@ ___
 
 #### #4: The realistic clothing image used to try the Fashion-MNIST models
 <br>
-<img src="images/the_fashionMINST_shirt.png" height="480"/> <br>
-<img src="images/output.png" height="320"/> <br>
+<img src="images/the_fashionMNIST_shirt.png" height="480"/><br>
+<img src="images/output.png" height="320"/><br>
 
 ### Used Software Info:
 - Python 3.7.9
