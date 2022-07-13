@@ -1,4 +1,4 @@
-
+<strong><em>Thanks for your reading, please give me a STAR!<em><strong>
 #### Introduction
 "Trainging Classification Models for Image Recognition with TensorFlow toward Clothing"<br>
 <strong>This is a learning material from software developer Vasco Correia Veloso<strong><br>
